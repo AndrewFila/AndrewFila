@@ -8,9 +8,9 @@ the hardware. More at [fila.nexus](https://fila.nexus).
 C++20. It packs and unpacks the packets the bulbs speak, and every message type
 has round-trip tests.
 
-**[clifx-hw-esp32](https://github.com/AndrewFila/clifx-hw-esp32)**: a physical
-controller for the lights, built on an ESP32 with a rotary encoder, a couple
-of knobs and an LCD.
+**[clifx-hw-esp32](https://github.com/AndrewFila/clifx-hw-esp32)**: the start of a
+physical controller for the lights, an ESP32 with a dial and a couple of
+knobs. Still a prototype.
 
 **[yomi](https://github.com/AndrewFila/yomi)**: the color scheme I use in the
 terminal and in Neovim.
